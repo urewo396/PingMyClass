@@ -16,11 +16,12 @@ A simple C# app that reads your weekly schedule from a CSV and sends you Telegra
 3. Run the program — it handles the rest 🔥
 
 ## CSV format 🗂️
+```
 Day,Subject,StartTime
 Monday,Math,08:00
 Monday,PE,09:30
 ...
-
+```
 (you also have an example in this repo)
 
 
